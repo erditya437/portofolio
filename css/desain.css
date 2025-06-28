@@ -1,0 +1,69 @@
+.uiux-section {
+  padding: 80px 20px;
+  background: linear-gradient(to bottom, #ffffff, #f5f5f5);
+  text-align: center;
+}
+
+.uiux-section .section-title {
+  font-size: 32px;
+  margin-bottom: 40px;
+  color: #333;
+}
+
+.uiux-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 30px;
+  justify-items: center;
+}
+
+.uiux-card {
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  max-width: 320px;
+}
+
+.uiux-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
+}
+
+.uiux-card img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.uiux-content {
+  padding: 20px;
+}
+
+.uiux-content h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: #ff6200;
+}
+
+.uiux-content p {
+  font-size: 14px;
+  color: #555;
+  margin-bottom: 15px;
+}
+
+.uiux-content .btn {
+  display: inline-block;
+  background-color: #ff6200;
+  color: white;
+  padding: 10px 18px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: 14px;
+  transition: background 0.3s ease;
+}
+
+.uiux-content .btn:hover {
+  background-color: #e35700;
+}

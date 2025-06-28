@@ -1,0 +1,77 @@
+{
+  "hero-title": "Xin chào, tôi là Erditya Megantoro Parikesit",
+  "hero-subtitle": "Một Web Developer | UI Designer",
+
+  "about-title": "Về Tôi",
+  "about-p1": "Tôi là một Web Developer đam mê xây dựng giao diện hiện đại, sạch sẽ và đáp ứng tốt. Với nền tảng thiết kế UI và kỹ năng kỹ thuật, tôi thích biến ý tưởng thành trải nghiệm kỹ thuật số hấp dẫn và hiệu quả.",
+  "about-p2": "Tôi tin rằng công nghệ và sự sáng tạo là một sự kết hợp tuyệt vời để tạo ra những giải pháp có tác động. Mỗi dòng mã tôi viết đều nhằm mang lại giá trị thực tế.",
+
+  "softskill-title": "Kỹ Năng Mềm",
+  "softskill-1-title": "Giao Tiếp Hiệu Quả",
+  "softskill-1-desc": "Có khả năng truyền đạt ý tưởng một cách rõ ràng và chính xác.",
+  "softskill-2-title": "Làm Việc Nhóm",
+  "softskill-2-desc": "Có kinh nghiệm làm việc cộng tác và hỗ trợ lẫn nhau.",
+  "softskill-3-title": "Sáng Tạo",
+  "softskill-3-desc": "Thích suy nghĩ khác biệt để tìm ra giải pháp mới.",
+  "softskill-4-title": "Quản Lý Thời Gian",
+  "softskill-4-desc": "Giỏi sắp xếp ưu tiên và đáp ứng thời hạn.",
+  "softskill-5-title": "Giải Quyết Vấn Đề",
+  "softskill-5-desc": "Suy nghĩ logic và có hệ thống để giải quyết vấn đề.",
+
+  "hardskill-title": "Kỹ Năng Cứng",
+
+  "footer-brand": "Erditya",
+  "footer-brand-desc": "Một Web Developer tập trung vào UI/UX và phát triển web hiện đại.",
+
+  "footer-nav-title": "Điều Hướng",
+  "nav-home": "Trang chủ",
+  "nav-project": "Dự án",
+  "nav-contact": "Liên hệ",
+
+  "footer-contact-title": "Liên Hệ",
+  "footer-email": "Email: adit@example.com",
+  "footer-location": "Vị trí: Indonesia",
+  "footer-wa": "WhatsApp: +62 812-3456-7890",
+
+  "footer-follow-title": "Theo Dõi Tôi",
+
+  "footer-copyright": "© 2025 Adit. Đã đăng ký bản quyền.",
+
+  "pj1-title": "Ứng Dụng Mạng Xã Hội",
+  "pj1-desc": "Ứng dụng mạng xã hội là một nền tảng giao tiếp trên nền web",
+  "pj1-detail-btn": "Xem Chi Tiết",
+  "pj1-detail-desc": "Ứng dụng này được phát triển bằng HTML, CSS và JavaScript cho giao diện người dùng, kết hợp với PHP và MySQL cho backend. Người dùng có thể đăng ký, đăng nhập, đăng trạng thái, bình luận và tương tác với nhau trên nền tảng.",
+
+  "pj2-title": "Saraswati Education",
+  "pj2-desc": "Ứng dụng web giáo dục về không gian vũ trụ",
+  "pj2-detail-btn": "Xem Chi Tiết",
+  "pj2-detail-desc": "Ứng dụng này được xây dựng bằng HTML, CSS, JavaScript cho phần giao diện, và PHP + MySQL cho backend. Nội dung tương tác và bố cục hiện đại giúp người dùng học về hệ mặt trời và khám phá vũ trụ một cách dễ dàng.",
+
+  "pj3-title": "Ứng Dụng Thu Ngân",
+  "pj3-desc": "Ứng dụng thu ngân trên nền web để quản lý tài chính",
+  "pj3-detail-btn": "Xem Chi Tiết",
+  "pj3-detail-desc": "Ứng dụng này được tạo bằng HTML, CSS, JavaScript và sử dụng Chart.js để hiển thị biểu đồ. Hỗ trợ quản lý doanh số bán hàng, kho, giao dịch và báo cáo tài chính hàng ngày một cách rõ ràng và dễ sử dụng.",
+
+  "pj4-title": "Ứng Dụng Mạng Xã Hội V2",
+  "pj4-desc": "Phiên bản nâng cấp của ứng dụng mạng xã hội",
+  "pj4-detail-btn": "Xem Chi Tiết",
+  "pj4-detail-desc": "Phiên bản 2 mang đến cải tiến về thiết kế và tính năng. Được xây dựng bằng HTML, CSS, JS và PHP + MySQL, phiên bản này có hệ thống thông báo tốt hơn, tính năng tải lên ảnh/video và cải thiện tương tác giữa người dùng.",
+
+  "pj5-title": "Ứng Dụng Bán Sỉ Trực Tuyến",
+  "pj5-desc": "Ứng dụng bán sỉ trên web với vai trò người dùng và quản trị viên",
+  "pj5-detail-btn": "Xem Chi Tiết",
+  "pj5-detail-desc": "Ứng dụng này được phát triển bằng HTML, CSS, JavaScript, cùng PHP + MySQL cho backend. Có hai vai trò: người dùng có thể đặt hàng số lượng lớn, còn admin có thể quản lý kho, theo dõi đơn hàng và tạo báo cáo.",
+
+  "pj6-title": "Ứng Dụng Điểm Danh",
+  "pj6-desc": "Ứng dụng điểm danh trên nền web dành cho học sinh và giáo viên",
+  "pj6-detail-btn": "Xem Chi Tiết",
+  "pj6-detail-desc": "Ứng dụng này được xây dựng bằng HTML, CSS và PHP + MySQL. Giáo viên có thể quản lý điểm danh trong lớp, học sinh có thể theo dõi lịch sử tham gia của mình theo thời gian thực. Có hỗ trợ đăng nhập và phân quyền truy cập.",
+
+  "uiux-title": "Dự Án Thiết Kế UI/UX",
+
+  "uiux1-title": "Balarina",
+  "uiux1-desc": "Thiết kế UI/UX cho ứng dụng đặt món ăn vặt trực tuyến",
+
+  "uiux2-title": "Sarmalos Cake",
+  "uiux2-desc": "Thiết kế UI/UX cho cửa hàng bánh trực tuyến"
+}

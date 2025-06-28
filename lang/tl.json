@@ -1,0 +1,77 @@
+{
+  "hero-title": "Kumusta, Ako si Erditya Megantoro Parikesit",
+  "hero-subtitle": "Isang Web Developer | UI Designer",
+
+  "about-title": "Tungkol sa Akin",
+  "about-p1": "Isa akong Web Developer na may passion sa paggawa ng modern, malinis, at responsive na mga interface. Sa background ko sa UI design at mga teknikal na kakayahan, masaya akong gawing kapaki-pakinabang at makabuluhang karanasan ang mga ideya sa digital na anyo.",
+  "about-p2": "Naniniwala ako na ang teknolohiya at pagkamalikhain ay isang mahusay na kombinasyon upang makalikha ng mga solusyong may epekto. Bawat linya ng code na sinusulat ko ay may layuning magbigay ng tunay na benepisyo.",
+
+  "softskill-title": "Mga Soft Skill",
+  "softskill-1-title": "Epektibong Komunikasyon",
+  "softskill-1-desc": "Kayang magpahayag ng ideya nang malinaw at direkta.",
+  "softskill-2-title": "Pagtutulungan",
+  "softskill-2-desc": "Sanay sa kolaboratibong trabaho at pagbibigay suporta.",
+  "softskill-3-title": "Pagkamalikhain",
+  "softskill-3-desc": "Mahilig mag-isip nang labas sa kahon para sa mga bagong solusyon.",
+  "softskill-4-title": "Pamamahala ng Oras",
+  "softskill-4-desc": "Magaling sa pag-priyoridad at pagtupad sa mga deadline.",
+  "softskill-5-title": "Paglutas ng Problema",
+  "softskill-5-desc": "Makatwiran at sistematiko sa paglutas ng mga suliranin.",
+
+  "hardskill-title": "Mga Hard Skill",
+
+  "footer-brand": "Erditya",
+  "footer-brand-desc": "Isang Web Developer na nakatuon sa UI/UX at modernong web development.",
+
+  "footer-nav-title": "Navigasyon",
+  "nav-home": "Home",
+  "nav-project": "Proyekto",
+  "nav-contact": "Kontak",
+
+  "footer-contact-title": "Kontak",
+  "footer-email": "Email: adit@example.com",
+  "footer-location": "Lokasyon: Indonesia",
+  "footer-wa": "WhatsApp: +62 812-3456-7890",
+
+  "footer-follow-title": "Sundan Ako",
+
+  "footer-copyright": "© 2025 Adit. Lahat ng karapatan ay nakalaan.",
+
+  "pj1-title": "Aplikasyon ng Social Media",
+  "pj1-desc": "Ang Social Media App ay isang web-based na plataporma para sa komunikasyon",
+  "pj1-detail-btn": "Tingnan ang Detalye",
+  "pj1-detail-desc": "Ang app na ito ay binuo gamit ang HTML, CSS, at JavaScript para sa front-end, at PHP at MySQL para sa back-end. Pinapayagan nito ang mga user na magrehistro, mag-login, mag-post ng status, magkomento, at makipag-ugnayan sa loob ng plataporma.",
+
+  "pj2-title": "Saraswati Education",
+  "pj2-desc": "Isang educational web app na tungkol sa kalawakan",
+  "pj2-detail-btn": "Tingnan ang Detalye",
+  "pj2-detail-desc": "Ang app na ito ay ginawa gamit ang HTML, CSS, at JavaScript para sa UI, at PHP + MySQL bilang backend. Mayroong interactive na content at modernong disenyo upang matulungan ang mga user na matuto tungkol sa solar system at space exploration.",
+
+  "pj3-title": "Cashier App",
+  "pj3-desc": "Isang web-based na app para sa pamamahala ng pananalapi",
+  "pj3-detail-btn": "Tingnan ang Detalye",
+  "pj3-detail-desc": "Ang app na ito ay binuo gamit ang HTML, CSS, at JavaScript, at gumagamit ng Chart.js para sa visual na ulat. Tinutulungan nito ang mga user na pamahalaan ang pang-araw-araw na benta, stock, transaksyon, at mga buod ng pananalapi nang organisado at madaling gamitin.",
+
+  "pj4-title": "Social Media App V2",
+  "pj4-desc": "Mas pinahusay na bersyon ng Social Media App",
+  "pj4-detail-btn": "Tingnan ang Detalye",
+  "pj4-detail-desc": "Ang bersyon 2 ng Social Media App ay nagdadala ng mga pagbuti sa disenyo at mga tampok. Gamit ang HTML, CSS, JS, at PHP + MySQL, may mas mahusay na notification system, media uploads, at pinahusay na interaksyon ng user.",
+
+  "pj5-title": "Online Wholesale App",
+  "pj5-desc": "Isang web-based na app na may role ng user at admin",
+  "pj5-detail-btn": "Tingnan ang Detalye",
+  "pj5-detail-desc": "Ang app na ito ay binuo gamit ang HTML, CSS, at JavaScript, na may PHP + MySQL bilang backend. May dalawang pangunahing role: ang mga user ay maaaring maglagay ng wholesale na order, habang ang mga admin ay maaaring pamahalaan ang stock, subaybayan ang mga order, at gumawa ng mga ulat.",
+
+  "pj6-title": "Attendance App",
+  "pj6-desc": "Isang web-based na attendance app para sa mga estudyante at guro",
+  "pj6-detail-btn": "Tingnan ang Detalye",
+  "pj6-detail-desc": "Ang app na ito ay binuo gamit ang HTML, CSS, at PHP + MySQL. Pinapayagan nito ang mga guro na pamahalaan ang attendance ng klase, at ang mga estudyante ay makakakita ng kanilang record nang real-time. May kasamang login at role-based na access control.",
+
+  "uiux-title": "Mga Proyekto sa UI/UX Design",
+
+  "uiux1-title": "Balarina",
+  "uiux1-desc": "UI/UX design para sa isang app ng online snack ordering",
+
+  "uiux2-title": "Sarmalos Cake",
+  "uiux2-desc": "UI/UX design para sa isang online na tindahan ng cake"
+}

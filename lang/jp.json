@@ -1,0 +1,77 @@
+{
+  "hero-title": "こんにちは、エルディティヤ・メガントロ・パリケシトです",
+  "hero-subtitle": "Web開発者 | UIデザイナー",
+
+  "about-title": "私について",
+  "about-p1": "私はモダンでクリーン、レスポンシブなインターフェースを作ることに情熱を持つWeb開発者です。UIデザインの知識と技術的スキルを活かして、アイデアを魅力的で機能的なデジタル体験に変えることが好きです。",
+  "about-p2": "テクノロジーと創造性は、インパクトのあるソリューションを生み出す素晴らしい組み合わせだと信じています。私の書くコードのすべては、実際に役立つことを目的としています。",
+
+  "softskill-title": "ソフトスキル",
+  "softskill-1-title": "効果的なコミュニケーション",
+  "softskill-1-desc": "アイデアを明確かつ的確に伝えることができます。",
+  "softskill-2-title": "チームワーク",
+  "softskill-2-desc": "協力的なチーム環境での作業に慣れています。",
+  "softskill-3-title": "創造力",
+  "softskill-3-desc": "新しいソリューションのために枠にとらわれない発想が得意です。",
+  "softskill-4-title": "時間管理",
+  "softskill-4-desc": "優先順位をつけ、締切を守るのが得意です。",
+  "softskill-5-title": "問題解決力",
+  "softskill-5-desc": "論理的かつ体系的に問題を解決します。",
+
+  "hardskill-title": "ハードスキル",
+
+  "footer-brand": "エルディティヤ",
+  "footer-brand-desc": "UI/UXとモダンWeb開発に注力しているWeb開発者です。",
+
+  "footer-nav-title": "ナビゲーション",
+  "nav-home": "ホーム",
+  "nav-project": "プロジェクト",
+  "nav-contact": "連絡先",
+
+  "footer-contact-title": "連絡先",
+  "footer-email": "メール: adit@example.com",
+  "footer-location": "所在地: インドネシア",
+  "footer-wa": "WhatsApp: +62 812-3456-7890",
+
+  "footer-follow-title": "フォローしてね",
+
+  "footer-copyright": "© 2025 Adit. 無断転載を禁じます。",
+
+  "pj1-title": "ソーシャルメディアアプリ",
+  "pj1-desc": "ソーシャルメディアアプリは、Webベースのコミュニケーションプラットフォームです",
+  "pj1-detail-btn": "詳細を見る",
+  "pj1-detail-desc": "このアプリはHTML、CSS、JavaScriptを使ってフロントエンドを構築し、PHPとMySQLでバックエンドを構成しています。ユーザー登録、ログイン、ステータス投稿、コメント、そしてプラットフォーム上での交流が可能です。",
+
+  "pj2-title": "サラスワティ教育",
+  "pj2-desc": "宇宙について学べる教育用Webアプリです",
+  "pj2-detail-btn": "詳細を見る",
+  "pj2-detail-desc": "このアプリはHTML、CSS、JavaScriptでユーザーインターフェースを作成し、PHP + MySQLを使ってバックエンドを構築しています。インタラクティブなコンテンツとモダンなレイアウトで、太陽系や宇宙探査の知識を学べます。",
+
+  "pj3-title": "レジアプリ",
+  "pj3-desc": "日々の会計を管理するためのWebベースのレジアプリです",
+  "pj3-detail-btn": "詳細を見る",
+  "pj3-detail-desc": "このアプリはHTML、CSS、JavaScript、およびChart.jsを使用して開発されました。売上、在庫、取引、財務の概要をわかりやすく管理できます。",
+
+  "pj4-title": "ソーシャルメディアアプリ V2",
+  "pj4-desc": "ソーシャルメディアアプリの改良版です",
+  "pj4-detail-btn": "詳細を見る",
+  "pj4-detail-desc": "ソーシャルメディアアプリのバージョン2では、デザインと機能の向上が図られています。HTML、CSS、JS、PHP + MySQLで構築されており、通知機能の改善、メディアアップロード、ユーザー間のインタラクションが強化されています。",
+
+  "pj5-title": "オンライン卸売アプリ",
+  "pj5-desc": "ユーザーと管理者の2つの役割を持つWebベースの卸売アプリです",
+  "pj5-detail-btn": "詳細を見る",
+  "pj5-detail-desc": "このアプリはHTML、CSS、JavaScriptを使用し、PHP + MySQLでバックエンドが構築されています。ユーザーは大量注文が可能で、管理者は在庫、注文管理、レポート生成を行えます。",
+
+  "pj6-title": "出席管理アプリ",
+  "pj6-desc": "教師と生徒のためのWebベースの出席管理アプリです",
+  "pj6-detail-btn": "詳細を見る",
+  "pj6-detail-desc": "このアプリはHTML、CSS、PHP + MySQLで構築されています。教師は出席を管理し、生徒はリアルタイムで記録を確認できます。ログインとロールベースのアクセス制御機能も備えています。",
+
+  "uiux-title": "UI/UXデザインプロジェクト",
+
+  "uiux1-title": "バラリナ",
+  "uiux1-desc": "オンラインスナック注文アプリのUI/UXデザイン",
+
+  "uiux2-title": "サルマロスケーキ",
+  "uiux2-desc": "オンラインケーキショップのUI/UXデザイン"
+}

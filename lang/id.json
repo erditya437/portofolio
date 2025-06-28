@@ -1,0 +1,79 @@
+{
+  "hero-title": "Halo, Saya Erditya Megantoro Parikesit",
+  "hero-subtitle": "Seorang Web Developer | UI Designer",
+  
+  "about-title": "Tentang Saya",
+  "about-p1": "Saya adalah seorang Web Developer yang memiliki passion dalam membangun antarmuka yang modern, bersih, dan responsif. Dengan latar belakang desain UI dan kemampuan teknis, saya senang mengubah ide menjadi pengalaman digital yang menarik dan fungsional.",
+  "about-p2": "Saya percaya bahwa teknologi dan kreativitas adalah kombinasi hebat untuk menciptakan solusi yang berdampak. Setiap baris kode saya tulis dengan tujuan memberikan manfaat nyata.",
+  
+  "softskill-title": "Soft Skill",
+  "softskill-1-title": "Komunikasi Efektif",
+  "softskill-1-desc": "Mampu menyampaikan ide dengan jelas & tepat sasaran.",
+  "softskill-2-title": "Kerja Tim",
+  "softskill-2-desc": "Terbiasa bekerja kolaboratif dan saling mendukung.",
+  "softskill-3-title": "Kreativitas",
+  "softskill-3-desc": "Suka berpikir out of the box untuk solusi baru.",
+  "softskill-4-title": "Manajemen Waktu",
+  "softskill-4-desc": "Pandai mengatur prioritas dan deadline.",
+  "softskill-5-title": "Problem Solving",
+  "softskill-5-desc": "Logis dan sistematis dalam menyelesaikan masalah.",
+
+  "hardskill-title": "Hard Skill",
+  
+  "footer-brand": "Erditya",
+  "footer-brand-desc": "Seorang Web Developer yang fokus pada UI/UX dan pengembangan web modern.",
+  
+  "footer-nav-title": "Navigasi",
+  "nav-home": "Beranda",
+  "nav-project": "Projek",
+  "nav-contact": "Kontak",
+
+  "footer-contact-title": "Kontak",
+  "footer-email": "Email: adit@example.com",
+  "footer-location": "Lokasi: Indonesia",
+  "footer-wa": "WhatsApp: +62 812-3456-7890",
+
+  "footer-follow-title": "Ikuti Saya",
+  
+  "footer-copyright": "© 2025 Adit. Hak cipta dilindungi undang-undang.",
+
+
+
+  "pj1-title": "Aplikasi Sosial Media",
+  "pj1-desc": "Aplikasi Sosial Media App merupakan platform komunikasi berbasis web",
+  "pj1-detail-btn": "Lihat Detail",
+  "pj1-detail-desc": "Aplikasi ini dikembangkan menggunakan HTML, CSS, dan JavaScript untuk tampilan depan, serta PHP dan MySQL untuk backend. Aplikasi ini memungkinkan pengguna untuk mendaftar, login, memposting status, memberikan komentar, dan berinteraksi sosial di dalam platform.",
+
+  "pj2-title": "Saraswati Education",
+  "pj2-desc": "Aplikasi web edukasi untuk mempelajari tentang angkasa luar",
+  "pj2-detail-btn": "Lihat Detail",
+  "pj2-detail-desc": "Aplikasi ini dibuat menggunakan HTML, CSS, dan JavaScript untuk antarmuka pengguna, serta PHP + MySQL sebagai backend. Menampilkan konten interaktif dan desain modern untuk membantu pengguna memahami tata surya dan eksplorasi luar angkasa.",
+
+  "pj3-title": "Aplikasi Kasir",
+  "pj3-desc": "Aplikasi kasir berbasis web untuk mengelola keuangan",
+  "pj3-detail-btn": "Lihat Detail",
+  "pj3-detail-desc": "Aplikasi ini dibangun dengan HTML, CSS, dan JavaScript, serta menggunakan Chart.js untuk visualisasi laporan. Membantu mengelola penjualan harian, stok, transaksi, dan ringkasan keuangan secara terstruktur dan mudah digunakan.",
+
+  "pj4-title": "Aplikasi Sosial Media V2",
+  "pj4-desc": "Versi lanjutan dari aplikasi sosial media",
+  "pj4-detail-btn": "Lihat Detail",
+  "pj4-detail-desc": "Versi 2 dari Aplikasi Sosial Media ini menghadirkan peningkatan pada desain dan fitur. Dibangun dengan HTML, CSS, JS, dan PHP + MySQL, versi ini memiliki sistem notifikasi yang lebih baik, fitur unggah media, dan peningkatan interaksi antar pengguna.",
+
+  "pj5-title": "Aplikasi Grosir Online",
+  "pj5-desc": "Aplikasi grosir berbasis web dengan peran user dan admin",
+  "pj5-detail-btn": "Lihat Detail",
+  "pj5-detail-desc": "Aplikasi ini dikembangkan menggunakan HTML, CSS, dan JavaScript dengan PHP + MySQL sebagai backend. Terdapat dua peran utama: pengguna dapat melakukan pemesanan grosir, sementara admin dapat mengelola stok, melacak pesanan, dan menghasilkan laporan.",
+
+  "pj6-title": "Aplikasi Absensi",
+  "pj6-desc": "Aplikasi absensi berbasis web untuk murid dan guru",
+  "pj6-detail-btn": "Lihat Detail",
+  "pj6-detail-desc": "Aplikasi absensi ini dibangun menggunakan HTML, CSS, dan PHP + MySQL. Guru dapat mengatur kehadiran kelas, dan siswa dapat melihat rekapnya secara real-time. Sudah dilengkapi dengan login dan kontrol akses berbasis peran.",
+
+  "uiux-title": "Projek Desain UI/UX",
+
+  "uiux1-title": "Balarina",
+  "uiux1-desc": "Desain UI/UX untuk aplikasi pemesanan jajanan online",
+
+  "uiux2-title": "Sarmalos Cake",
+  "uiux2-desc": "Desain UI/UX untuk toko kue online"
+}

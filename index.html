@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Portofolio Adit</title>
+  <link rel="stylesheet" href="css/index.css" />
+  <link rel="stylesheet" href="css/about.css" />
+   <link rel="stylesheet" href="css/skill.css" />
+   <link rel="stylesheet" href="css/footer.css" />
+   <link rel="stylesheet" href="css/dark.css" />
+</head>
+<body>
+
+ <header>
+  <div class="logo" id="nav-logo">Erditya</div>
+  <nav id="nav-links">
+    <a href="#home" id="nav-home">Home</a>
+    <a href="project.html" id="nav-project">Projek</a>
+   
+  </nav>
+  <div class="hamburger" id="hamburger" onclick="toggleMenu()">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+</header>
+
+  <div id="overlay" class="overlay" onclick="closeMenu()"></div>
+
+  <section class="hero" id="home">
+     <div class="hero-settings-box">
+    <!-- Bahasa -->
+    <select id="languageSelect">
+      <option value="id">indonesia</option>
+      <option value="en">english</option>
+      <option value="jp">japanese</option>
+      <option value="tl">tagalog</option>
+      <option value="vi">Viet</option>
+       <option value="km">Kamboja (khmer)</option>
+    </select>
+    
+    <!-- Dark Mode -->
+    <label class="toggle-switch">
+      <input type="checkbox" id="darkModeToggle" />
+      <span class="slider"></span>
+    </label>
+  </div>
+    <div class="hero-text">
+      <h1 id="hero-title">Halo, Saya Erditya Megantoro Parikesit</h1>
+      <p id="hero-subtitle">Seorang Web Developer | UI Designer</p>
+    </div>
+    <div class="hero-image">
+      <img src="foto/adit.jpeg" alt="Foto Profil Adit">
+    </div>
+  </section>
+
+ <section class="about" id="about">
+  <div class="about-image">
+    <img src="foto/Gambar WhatsApp 2025-06-28 pukul 16.08.08_9a6156da.jpg" alt="Tentang Adit">
+  </div>
+  <div class="about-text">
+    <h2 id="about-title">Tentang Saya</h2>
+    <p id="about-p1">
+      Saya adalah seorang Web Developer yang memiliki passion dalam membangun antarmuka yang modern, bersih, dan responsif. Dengan latar belakang desain UI dan kemampuan teknis, saya senang mengubah ide menjadi pengalaman digital yang menarik dan fungsional.
+    </p>
+    <p id="about-p2">
+      Saya percaya bahwa teknologi dan kreativitas adalah kombinasi hebat untuk menciptakan solusi yang berdampak. Setiap baris kode saya tulis dengan tujuan memberikan manfaat nyata.
+    </p>
+  </div>
+</section>
+
+
+
+<section class="soft-skills-grid" id="soft-skills">
+  <h2 id="softskill-title" class="section-title">Soft Skill</h2>
+  <div class="soft-skill-card-grid">
+    <div class="soft-skill-card card-1">
+      <div class="card-content">
+        <img src="icon/internal.png" alt="Komunikasi">
+        <h3  id="softskill-1-title">Komunikasi Efektif</h3>
+        <p class="hover-text" id="softskill-1-desc">Mampu menyampaikan ide dengan jelas & tepat sasaran.</p>
+      </div>
+    </div>
+    <div class="soft-skill-card card-2">
+      <div class="card-content">
+        <img src="icon/teamwork.png" alt="Tim">
+        <h3 id= "softskill-2-title">Kerja Tim</h3>
+        <p class="hover-text" id="softskill-2-desc">Terbiasa bekerja kolaboratif dan saling mendukung.</p>
+      </div>
+    </div>
+    <div class="soft-skill-card card-3">
+      <div class="card-content">
+        <img src="icon/idea.png" alt="Kreativitas">
+        <h3  id="softskill-3-title">Kreativitas</h3>
+        <p class="hover-text"  id="softskill-3-desc">Suka berpikir out of the box untuk solusi baru.</p>
+      </div>
+    </div>
+    <div class="soft-skill-card card-4">
+      <div class="card-content">
+        <img src="icon/clock.png" alt="Waktu">
+        <h3 id="softskill-4-title">Manajemen Waktu</h3>
+        <p class="hover-text" id="softskill-4-desc">Pandai mengatur prioritas dan deadline.</p>
+      </div>
+    </div>
+    <div class="soft-skill-card card-5">
+      <div class="card-content">
+        <img src="icon/solution.png" alt="Problem">
+        <h3 id="softskill-5-title">Problem Solving</h3>
+        <p class="hover-text" id="softskill-5-desc">Logis dan sistematis dalam menyelesaikan masalah.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+<section class="skills" id="skills">
+  
+
+  <div class="skill-category">
+    <h1 id="hardskill-title" class="section-title">Hard Skill</h1>
+    <div class="skill-grid">
+      <div class="skill-item" data-percent="90">
+        <img src="logo/icons8-html-5-48.png" alt="HTML">
+        <span>HTML</span>
+        <div class="bar-container">
+          <div class="bar-fill"></div>
+          <span class="bar-percent">0%</span>
+        </div>
+      </div>
+
+      <div class="skill-item" data-percent="85">
+        <img src="logo/icons8-css-48.png" alt="CSS">
+        <span>CSS</span>
+        <div class="bar-container">
+          <div class="bar-fill"></div>
+          <span class="bar-percent">0%</span>
+        </div>
+      </div>
+
+      <div class="skill-item" data-percent="30">
+        <img src="logo/icons8-javascript-48.png" alt="JavaScript">
+        <span>JavaScript</span>
+        <div class="bar-container">
+          <div class="bar-fill"></div>
+          <span class="bar-percent">0%</span>
+        </div>
+      </div>
+
+      <div class="skill-item" data-percent="60">
+        <img src="logo/icons8-svelte-48.png" alt="Svelte + Vite">
+        <span>Svelte + Vite</span>
+        <div class="bar-container">
+          <div class="bar-fill"></div>
+          <span class="bar-percent">0%</span>
+        </div>
+      </div>
+
+      
+      </div>
+    </div>
+  </div>
+
+  <div class="skill-category">
+    <div class="skill-grid">
+      <div class="skill-item" data-percent="80">
+        <img src="logo/PHP-Logo.wine.png" alt="PHP">
+        <span>PHP</span>
+        <div class="bar-container">
+          <div class="bar-fill"></div>
+          <span class="bar-percent">0%</span>
+        </div>
+      </div>
+
+      <div class="skill-item" data-percent="75">
+        <img src="logo/Laravel-Logo.wine.png" alt="Laravel">
+        <span>Laravel</span>
+        <div class="bar-container">
+          <div class="bar-fill"></div>
+          <span class="bar-percent">0%</span>
+        </div>
+      </div>
+
+      <div class="skill-item" data-percent="85">
+        <img src="logo/icons8-mysql-logo-48.png" alt="MySQL">
+        <span>MySQL</span>
+        <div class="bar-container">
+          <div class="bar-fill"></div>
+          <span class="bar-percent">0%</span>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+
+  <div class="skill-category">
+    <div class="skill-grid">
+      <div class="skill-item" data-percent="90">
+        <img src="logo/icons8-visual-studio-code-48.png" alt="VS Code">
+        <span>VS Code</span>
+        <div class="bar-container">
+          <div class="bar-fill"></div>
+          <span class="bar-percent">0%</span>
+        </div>
+      </div>
+
+      <div class="skill-item" data-percent="85">
+        <img src="logo/laragon-seeklogo.png" alt="Laragon">
+        <span>Laragon</span>
+        <div class="bar-container">
+          <div class="bar-fill"></div>
+          <span class="bar-percent">0%</span>
+        </div>
+      </div>
+      <div class="skill-item" data-percent="95">
+        <img src="logo/icons8-figma-48.png" alt="Figma">
+        <span>UI/UX Figma</span>
+        <div class="bar-container">
+          <div class="bar-fill"></div>
+          <span class="bar-percent">0%</span>
+        </div>
+    </div>
+  </div>
+</section>
+
+
+<footer class="footer">
+  <div class="footer-container">
+    
+    <div class="footer-brand">
+      <h2 id="footer-brand">Erditya</h2>
+      <p id="footer-brand-desc">Seorang Web Developer yang fokus pada UI/UX dan pengembangan web modern.</p>
+    </div>
+
+    <div class="footer-nav">
+      <h3 id="footer-nav-title">Navigasi</h3>
+      <ul>
+        <li><a href="#home"  id="nav-home">Home</a></li>
+        <li><a href="#projek" id="nav-projek">Projek</a></li>
+        <li><a href="#kontak"  id="nav-kontak">Kontak</a></li>
+      </ul>
+    </div>
+
+    <div class="footer-contact">
+      <h3 id="footer-contact-title">Kontak</h3>
+      <p id="footer-email">Email: adit@example.com</p>
+      <p  id="footer-location">Lokasi: Indonesia</p>
+      <p id="footer-wa">WhatsApp: +62 812-3456-7890</p>
+    </div>
+
+    <div class="footer-social">
+      <h3 id="footer-follow-title">Ikuti Saya</h3>
+      <div class="social-icons">
+        <a href="#"><img src="logo/instagram.png" alt="Instagram"></a>
+        <a href="#"><img src="logo/facebook.png" alt="Facebook"></a>
+        <a href="#"><img src="logo/icons8-github-50.png" alt="GitHub"></a>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <p id="footer-copyright">&copy; 2025 Adit. All rights reserved.</p>
+  </div>
+</footer>
+
+
+
+
+
+  <script src="js/dark.js"></script>
+  <script src="js/script.js"></script>
+  <script src="js/lang.js" defer></script>
+</body>
+</html>

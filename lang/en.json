@@ -1,0 +1,79 @@
+{
+  "hero-title": "Hello, I'm Erditya Megantoro Parikesit",
+  "hero-subtitle": "A Web Developer | UI Designer",
+  
+  "about-title": "About Me",
+  "about-p1": "I am a Web Developer passionate about building modern, clean, and responsive interfaces. With a background in UI design and technical skills, I enjoy turning ideas into engaging and functional digital experiences.",
+  "about-p2": "I believe technology and creativity are a great combination to create impactful solutions. Every line of code I write aims to bring real value.",
+  
+  "softskill-title": "Soft Skills",
+  "softskill-1-title": "Effective Communication",
+  "softskill-1-desc": "Able to convey ideas clearly & to the point.",
+  "softskill-2-title": "Teamwork",
+  "softskill-2-desc": "Experienced in collaborative and supportive work.",
+  "softskill-3-title": "Creativity",
+  "softskill-3-desc": "Enjoys thinking outside the box for new solutions.",
+  "softskill-4-title": "Time Management",
+  "softskill-4-desc": "Skilled at prioritizing and managing deadlines.",
+  "softskill-5-title": "Problem Solving",
+  "softskill-5-desc": "Logical and systematic in solving problems.",
+
+  "hardskill-title": "Hard Skills",
+  
+  "footer-brand": "Erditya",
+  "footer-brand-desc": "A Web Developer focusing on UI/UX and modern web development.",
+  
+  "footer-nav-title": "Navigation",
+  "nav-home": "Home",
+  "nav-project": "Projects",
+  "nav-contact": "Contact",
+
+  "footer-contact-title": "Contact",
+  "footer-email": "Email: adit@example.com",
+  "footer-location": "Location: Indonesia",
+  "footer-wa": "WhatsApp: +62 812-3456-7890",
+
+  "footer-follow-title": "Follow Me",
+  
+  "footer-copyright": "© 2025 Adit. All rights reserved.",
+
+
+
+  "pj1-title": "Social Media App",
+  "pj1-desc": "Social Media App is a web-based communication platform",
+  "pj1-detail-btn": "View Details",
+  "pj1-detail-desc": "This application was developed using HTML, CSS, and JavaScript for the front end, and PHP with MySQL for the backend. It enables users to register, log in, post statuses, comment, and interact socially within the platform.",
+
+  "pj2-title": "Saraswati Education",
+  "pj2-desc": "An educational web application about outer space",
+  "pj2-detail-btn": "View Details",
+  "pj2-detail-desc": "This application was built using HTML, CSS, and JavaScript for the user interface, and PHP + MySQL for the backend. It features interactive content and a modern layout to help users learn more about the solar system and space exploration.",
+
+  "pj3-title": "Cashier App",
+  "pj3-desc": "A web-based cashier app to manage finances",
+  "pj3-detail-btn": "View Details",
+  "pj3-detail-desc": "This application is built using HTML, CSS, and JavaScript, with Chart.js for visual reports. It helps manage daily sales, stock, transactions, and financial summaries in a structured and user-friendly way.",
+
+  "pj4-title": "Social Media App V2",
+  "pj4-desc": "A more advanced version of the Social Media App",
+  "pj4-detail-btn": "View Details",
+  "pj4-detail-desc": "Version 2 of the Social Media App brings improvements in design and features. Built using HTML, CSS, JS, and PHP + MySQL, it adds a better notification system, media uploads, and user interaction enhancements.",
+
+  "pj5-title": "Online Wholesale App",
+  "pj5-desc": "A web-based wholesale application with user and admin roles",
+  "pj5-detail-btn": "View Details",
+  "pj5-detail-desc": "This application was developed using HTML, CSS, and JavaScript with PHP + MySQL as backend. It includes two roles: users can place bulk orders, and admins can manage inventory, track orders, and generate reports.",
+
+  "pj6-title": "Attendance App",
+  "pj6-desc": "A web-based attendance application for students and teachers",
+  "pj6-detail-btn": "View Details",
+  "pj6-detail-desc": "This attendance application is built using HTML, CSS, and PHP + MySQL. It allows teachers to manage class attendance and students to check their records in real time. Includes login and role-based access control.",
+
+  "uiux-title": "UI/UX Design Projects",
+
+  "uiux1-title": "Balarina",
+  "uiux1-desc": "UI/UX design for an online snack ordering application",
+
+  "uiux2-title": "Sarmalos Cake",
+  "uiux2-desc": "UI/UX design for an online cake store"
+}
